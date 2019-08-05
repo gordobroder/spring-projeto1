@@ -25,6 +25,8 @@ public class DataInitilizr implements ApplicationListener<ContextRefreshedEvent>
 			
 			createUser("Gustavo Schmidt", "gustavo@gmail.com");
 			createUser("Mario", "mario@gmail.com");
+			createUser("Gordo", "gordera@gmail.com");
+			createUser("Marmaduke", "marmaduk@gmail.com");
 			
 		}
 		
